@@ -1,0 +1,1982 @@
+[
+  {
+    "teacherName": "(д.т.н. Техник И.К )",
+    "subject": "Математический анализ",
+    "attendance": {
+      "group1": {
+        "21.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "X"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "X"
+          }
+        ]
+      },
+      "group2": {
+        "21.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "X"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "V"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "X"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "X"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group3": {
+        "21.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "X"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "teacherName": "( к.ф.н. Философ. А.А)",
+    "subject": "Философия",
+    "attendance": {
+      "group1": {
+        "21.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "X"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "X"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group2": {
+        "21.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "X"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "V"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "X"
+          }
+        ]
+      },
+      "group3": {
+        "21.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "X"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "X"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "teacherName": "( д.и.н. Историк С.И.)",
+    "subject": "История",
+    "attendance": {
+      "group1": {
+        "21.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "X"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "X"
+          }
+        ]
+      },
+      "group2": {
+        "21.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "X"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "V"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "X"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group3": {
+        "21.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "X"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "teacherName": "( к.ф.н. Филолог. А.А)",
+    "subject": "Русский язык",
+    "attendance": {
+      "group1": {
+        "21.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group2": {
+        "21.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "X"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "V"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group3": {
+        "21.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "X"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "teacherName": "( доцент Социолог. А.А)",
+    "subject": "Социология",
+    "attendance": {
+      "group1": {
+        "21.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Мария",
+            "surname": "Петрова",
+            "attendance": "V"
+          },
+          {
+            "name": "Александр",
+            "surname": "Иванов",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Цветкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Котов",
+            "attendance": "V"
+          },
+          {
+            "name": "Анна",
+            "surname": "Синицына",
+            "attendance": "X"
+          },
+          {
+            "name": "Михаил",
+            "surname": "Шилов",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group2": {
+        "21.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "V"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Алина",
+            "surname": "Мягкова",
+            "attendance": "X"
+          },
+          {
+            "name": "Иван",
+            "surname": "Гобоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Юлия",
+            "surname": "Синицына",
+            "attendance": "V"
+          },
+          {
+            "name": "Сергей",
+            "surname": "Орлов",
+            "attendance": "V"
+          },
+          {
+            "name": "Екатерина",
+            "surname": "Великая",
+            "attendance": "X"
+          },
+          {
+            "name": "Пётр",
+            "surname": "Первый",
+            "attendance": "V"
+          }
+        ]
+      },
+      "group3": {
+        "21.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "22.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "23.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ],
+        "24.01": [
+          {
+            "name": "Рулон",
+            "surname": "Обоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Отряд",
+            "surname": "Ковбоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Подрыв",
+            "surname": "Устоев",
+            "attendance": "V"
+          },
+          {
+            "name": "Поджог",
+            "surname": "Сараев",
+            "attendance": "V"
+          },
+          {
+            "name": "Черёд",
+            "surname": "Застоев",
+            "attendance": "X"
+          },
+          {
+            "name": "Улов",
+            "surname": "Налимов",
+            "attendance": "V"
+          }
+        ]
+      }
+    }
+  }
+]

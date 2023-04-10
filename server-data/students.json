@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Группа 1",
+    "names": [
+      {
+        "name": "Мария",
+        "surname": "Петрова",
+        "attendance": "V"
+      },
+      {
+        "name": "Александр",
+        "surname": "Иванов",
+        "attendance": "X"
+      },
+      {
+        "name": "Юлия",
+        "surname": "Цветкова",
+        "attendance": "V"
+      },
+      {
+        "name": "Сергей",
+        "surname": "Котов",
+        "attendance": "V"
+      },
+      {
+        "name": "Анна",
+        "surname": "Синицына",
+        "attendance": "X"
+      },
+      {
+        "name": "Михаил",
+        "surname": "Шилов",
+        "attendance": "V"
+      }
+    ]
+  },
+  {
+    "title": "Группа 2",
+    "names": [
+      {
+        "name": "Алина",
+        "surname": "Мягкова",
+        "attendance": "V"
+      },
+      {
+        "name": "Иван",
+        "surname": "Гобоев",
+        "attendance": "X"
+      },
+      {
+        "name": "Юлия",
+        "surname": "Синицына",
+        "attendance": "V"
+      },
+      {
+        "name": "Сергей",
+        "surname": "Орлов",
+        "attendance": "V"
+      },
+      {
+        "name": "Екатерина",
+        "surname": "Великая",
+        "attendance": "X"
+      },
+      {
+        "name": "Пётр",
+        "surname": "Первый",
+        "attendance": "V"
+      }
+    ]
+  },
+  {
+    "title": "Группа 3",
+    "names": [
+      {
+        "name": "Рулон",
+        "surname": "Обоев",
+        "attendance": "V"
+      },
+      {
+        "name": "Отряд",
+        "surname": "Ковбоев",
+        "attendance": "X"
+      },
+      {
+        "name": "Подрыв",
+        "surname": "Устоев",
+        "attendance": "V"
+      },
+      {
+        "name": "Поджог",
+        "surname": "Сараев",
+        "attendance": "V"
+      },
+      {
+        "name": "Черёд",
+        "surname": "Застоев",
+        "attendance": "X"
+      },
+      {
+        "name": "Улов",
+        "surname": "Налимов",
+        "attendance": "V"
+      }
+    ]
+  }
+]
